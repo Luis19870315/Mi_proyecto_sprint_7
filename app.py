@@ -37,4 +37,4 @@ if st.checkbox('CLICK PARA MOSTRAR LA DISPERSION ENTRE: KILOMETRAJE Y PRECIO'):
 
 
 # Mi_proyecto_sprint_7
-# En la aplicación es importante porque onocemos los niveles de ventas de los diferentes vehículos por su marca, modelo, precio y el kilometraje que tienen recorrido.
+# En la aplicación es importante porque conocemos los niveles de ventas de los diferentes vehículos por su marca, modelo, precio y el kilometraje que tienen recorrido.
