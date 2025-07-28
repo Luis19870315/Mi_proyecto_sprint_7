@@ -33,3 +33,8 @@ if st.checkbox('CLICK PARA MOSTRAR LA DISPERSION ENTRE: KILOMETRAJE Y PRECIO'):
     st.write('Diagrama de dispersión de Vehiculos entre: kilometraje vs precio')
     fig4 = px.scatter(car_data, x='odometer', y='price')
     st.plotly_chart(fig4)
+
+
+
+# Mi_proyecto_sprint_7
+# En la aplicación es importante porque onocemos los niveles de ventas de los diferentes vehículos por su marca, modelo, precio y el kilometraje que tienen recorrido.
