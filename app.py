@@ -21,7 +21,7 @@ if st.button('Diagrama de Dispersión de Vehiculos'):
     st.write('Diagrama de dispersión entre: Kilometraje vs Precio')
     fig2 = px.scatter(car_data, x='odometer', y='price')
     st.plotly_chart(fig2)
-
+    
 # Versiónes  con checkboxes
 
 if st.checkbox('CLICK PARA MOSTRAR EL HISTOGRAMA POR KILOMETRO RECORRIDO'):
