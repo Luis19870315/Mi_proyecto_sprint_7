@@ -6,7 +6,7 @@ from PIL import Image
 # Leer los datos
 car_data = pd.read_csv('vehicles_us.csv') 
 
-# Configuración de la página
+# Titulo de la pagina
 img = Image.open('logo.png')
 st.set_page_config(page_title='Auto Cars TRIPLETEN', page_icon=img)
 
